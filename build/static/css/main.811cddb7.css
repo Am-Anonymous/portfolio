@@ -1,2 +1,0 @@
-.ripple-effect{animation:ripple .6s ease-out;border-radius:50%;height:40px;pointer-events:none;position:fixed;transform:scale(0);width:40px;z-index:9999}.dark-ripple{background:radial-gradient(circle,#7c3aedb3 0,#6366f180 100%)}.light-ripple{background:radial-gradient(circle,#fb7185b3 0,#fdba7480 100%)}@keyframes ripple{to{opacity:0;transform:scale(4)}}
-/*# sourceMappingURL=main.811cddb7.css.map*/
